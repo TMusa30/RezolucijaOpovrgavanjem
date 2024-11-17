@@ -1,4 +1,4 @@
-Ovaj program implementira sustav za automatsko zaključenje pomoću rezolucijskog pravila opovrgavanjem. Program ima dva glavna dijela:
+Ovaj program implementira sustav za automatsko zaključivanje pomoću rezolucijskog pravila opovrgavanjem. Program ima dva glavna dijela:
     1. Rezolucija opovrgavanjem - Provodi algoritam rezolucije opovrgavanjem za dokazivanje ili opovrgavanje klauzula.
     2. Kuharski asistent - Pomaže u odabiru recepta na temelju trenutno dostupnih sastojaka.
 
